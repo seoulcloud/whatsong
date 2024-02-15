@@ -30,6 +30,11 @@
 - Genre: POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=AX7BcBD8-BA)
 
+## Love wins all
+- Artist: 아이유
+- Genre: 장르
+- [유튜브 바로가기](https://youtu.be/JleoAppaxi0?si=49PJ3fMpoYGnZnMG)
+
 ## 좋은밤 좋은꿈
 - Artist: 너드커넥션
 - Genre: Indie Music
