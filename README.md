@@ -18,6 +18,11 @@
 - Genre: POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=AX7BcBD8-BA)
 
+## IndiGO
+
+- Artist: IndiGO
+- Genre: hiphop
+- [유튜브 바로가기](https://www.youtube.com/watch?v=jd2DxTR0znU)
 
 ## 빨간 피터
 - Artist: 쏜애플
