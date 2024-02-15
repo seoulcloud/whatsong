@@ -16,3 +16,9 @@
 - Artist: Sam Ryder
 - Genre: POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=AX7BcBD8-BA)
+
+
+## 오래된 노래
+- Artist: 김동률
+- Genre: POP
+- [유튜브 바로가기](https://www.youtube.com/watch?v=uuI7SsiRCuM)
