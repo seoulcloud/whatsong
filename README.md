@@ -18,7 +18,7 @@
 - Genre: POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=AX7BcBD8-BA)
 
-## Tiny Riot
+## IndiGO
 
 - Artist: IndiGO
 - Genre: hiphop
