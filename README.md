@@ -25,6 +25,11 @@
 - Genre: POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=AX7BcBD8-BA)
 
+## And July
+- Artist: Heize (Feat.Dean)
+- Genre: rap/hiphop
+- [유튜브 바로가기](https://youtu.be/rCeM57e2BfU?si=VVdzDjvQOZ_iEG-K)
+
 ## Ballade No.1 in G minor, Op.23
 - Artist: Chopin (Krystian Zimerman)
 - Genre: Classic
