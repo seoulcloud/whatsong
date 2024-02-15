@@ -16,3 +16,9 @@
 - Artist: Sam Ryder
 - Genre: POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=AX7BcBD8-BA)
+
+
+## Letter
+- Artist: 유다빈밴드
+- Genre: 인디음악, Rock
+- [유튜브 바로가기](https://www.youtube.com/watch?v=-dxS4aYJi00)
