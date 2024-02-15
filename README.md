@@ -16,3 +16,9 @@
 - Artist: Sam Ryder
 - Genre: POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=AX7BcBD8-BA)
+
+
+## 제목
+- Artist: 가수이름
+- Genre: 장르
+- [유튜브 바로가기](https://www.youtube.com/watch?v=w7uMrBJQZrE)
