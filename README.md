@@ -20,6 +20,11 @@
 - Genre: RAP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=Q8gyOnaxzHU)
 
+## Flower Fantasy
+- Artist: 엔플라잉
+- Genre: K-pop
+- [유튜브 바로가기](https://www.youtube.com/watch?v=jYHB-ak6d94)
+
 ## Tiny Riot
 - Artist: Sam Ryder
 - Genre: POP
