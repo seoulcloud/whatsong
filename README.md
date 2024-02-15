@@ -1,4 +1,4 @@
-# 음악 추천
+# 음악 추천.
 
 ## GHOST TOWN
 - Artist: Benson Boone
