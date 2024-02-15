@@ -20,6 +20,6 @@
 
 ## Tiny Riot
 
-- Artist: 인디고
+- Artist: IndiGO
 - Genre: hiphop
 - [유튜브 바로가기](https://www.youtube.com/watch?v=jd2DxTR0znU)
