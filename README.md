@@ -12,7 +12,7 @@
 - [유튜브 바로가기](https://www.youtube.com/watch?v=ekzHIouo8Q4)
 
 
-## Tiny Riot
-- Artist: Sam Ryder
-- Genre: POP
-- [유튜브 바로가기](https://www.youtube.com/watch?v=AX7BcBD8-BA)
+## Flower Fantasy
+- Artist: 엔플라잉
+- Genre: K-pop
+- [유튜브 바로가기](https://www.youtube.com/watch?v=jYHB-ak6d94)
