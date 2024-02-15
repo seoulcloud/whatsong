@@ -30,6 +30,11 @@
 - Genre: POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=AX7BcBD8-BA)
 
+## 오랜만이야
+- Artist: DK(김동혁)
+- Genre: K-pop
+- [유튜브 바로가기](https://www.youtube.com/watch?v=w7uMrBJQZrE)
+
 ## 전부너였다
 - Artist: 노을
 - Genre: Ballad
