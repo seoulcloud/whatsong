@@ -30,6 +30,11 @@
 - Genre: POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=AX7BcBD8-BA)
 
+## 잘 지내자, 우리
+- Artist: 로이킴
+- Genre: 발라드
+- [유튜브 바로가기](https://www.youtube.com/watch?v=6CkYrki1aFs)
+
 ## 오랜만이야
 - Artist: DK(김동혁)
 - Genre: K-pop
