@@ -30,6 +30,11 @@
 - Genre: POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=AX7BcBD8-BA)
 
+## Life is gonna change
+- Artist: Sophia James
+- Genre: POP
+- [유튜브 바로가기](https://www.youtube.com/watch?v=2hxEt9yAOgs)
+
 ## All Star
 - Artist: Smash Mouth
 - Genre: POP
