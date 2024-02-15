@@ -30,6 +30,11 @@
 - Genre: POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=AX7BcBD8-BA)
 
+## 전부너였다
+- Artist: 노을
+- Genre: Ballad
+- [유튜브 바로가기](https://www.youtube.com/watch?v=pX_Nv6gG6SY)
+
 ## 오래된 노래
 - Artist: 김동률
 - Genre: POP
