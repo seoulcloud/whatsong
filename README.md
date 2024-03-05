@@ -149,3 +149,8 @@
 - Artist: 레드벨벳
 - Genre: K-POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=WyiIGEHQP8o)
+
+## 비밀
+- Artist: 부활
+- Genre: Rock
+- [유튜브 바로가기](https://youtu.be/_XyzRij5AqU?si=iRiilYSstcW_nIyK)
