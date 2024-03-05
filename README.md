@@ -155,6 +155,13 @@
 - Genre: K-POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=WyiIGEHQP8o)
 
+
+## 곰 세마리
+- Artist: 잘 모르겠습니다.
+- Genre: 동요
+- [유튜브 바로가기](https://www.youtube.com/watch?v=BW_IBKw229A)
+
+
 ## 소녀시대
 - Artist: 소녀시대
 - Genre: K-POP
@@ -162,3 +169,4 @@
 ## DASH
 - Artist: NMIXX
 - Genre: K-POP
+
