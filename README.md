@@ -1,5 +1,10 @@
 # 음악 추천
 
+## 밤양갱
+- Artist: 비비
+- Genre: K-POP
+- [유튜브 바로가기](https://youtu.be/smdmEhkIRVc?si=Nb11TEnXuREhJCt8)
+
 ## GHOST TOWN
 - Artist: Benson Boone
 - Genre: POP
