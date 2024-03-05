@@ -1,5 +1,10 @@
 # 음악 추천
 
+## 모닥불
+- Artist : 최유리
+- Genre : 발라드
+- [유튜브 바로가기](https://youtu.be/4PNbtD1LZYo?si=SR5WHJzgZpZ2NyGa)
+
 ## GHOST TOWN
 - Artist: Benson Boone
 - Genre: POP
