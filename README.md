@@ -154,3 +154,11 @@
 - Artist: 레드벨벳
 - Genre: K-POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=WyiIGEHQP8o)
+
+## 소녀시대
+- Artist: 소녀시대
+- Genre: K-POP
+
+## DASH
+- Artist: NMIXX
+- Genre: K-POP
