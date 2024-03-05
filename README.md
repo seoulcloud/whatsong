@@ -1,5 +1,10 @@
 # 음악 추천
 
+## 하루종일 듣기 좋은 노래
+- Artist: The One etc.
+- Genre: various
+- [유튜브 바로가기](https://www.youtube.com/watch?v=xS1jzp6X6WA)
+
 ## GHOST TOWN
 - Artist: Benson Boone
 - Genre: POP
