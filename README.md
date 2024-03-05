@@ -1,5 +1,10 @@
 # 음악 추천
 
+## Beautiful Things
+- Artist: Benson Boone
+- Genre: POP
+- [유튜브 바로가기](https://www.youtube.com/watch?v=SWYJMtdKsSk)
+
 ## GHOST TOWN
 - Artist: Benson Boone
 - Genre: POP
