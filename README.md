@@ -1,5 +1,10 @@
 # 음악 추천
 
+## 싸운날
+- Artist: 볼빨간사춘기
+- Genre: K-pop
+- [유튜브 바로가기](https://www.youtube.com/watch?v=YDlYsr4dH2Q)
+
 ## GHOST TOWN
 - Artist: Benson Boone
 - Genre: POP
