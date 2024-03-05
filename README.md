@@ -1,5 +1,10 @@
 # 음악 추천
 
+## 자작곡
+- Artist: 김창운
+- Genre: BALAD
+- [유튜브 바로가기](https://www.youtube.com/watch?v=mqh9VQAIihU)
+
 ## GHOST TOWN
 - Artist: Benson Boone
 - Genre: POP
