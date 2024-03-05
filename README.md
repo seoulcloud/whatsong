@@ -1,5 +1,10 @@
 # 음악 추천
 
+## 락앤롤데이
+- Artist: 달소년
+- Genre: Rock
+- [유튜브 바로가기](https://www.youtube.com/watch?v=D8ZlnldEv8Q)
+
 ## 싸운날
 - Artist: 볼빨간사춘기
 - Genre: K-pop
