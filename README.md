@@ -1,5 +1,15 @@
 # 음악 추천
 
+## 락앤롤데이
+- Artist: 달소년
+- Genre: Rock
+- [유튜브 바로가기](https://www.youtube.com/watch?v=D8ZlnldEv8Q)
+
+## 싸운날
+- Artist: 볼빨간사춘기
+- Genre: K-pop
+- [유튜브 바로가기](https://www.youtube.com/watch?v=YDlYsr4dH2Q)
+
 ## GHOST TOWN
 - Artist: Benson Boone
 - Genre: POP
@@ -154,3 +164,16 @@
 - Artist: 부활
 - Genre: Rock
 - [유튜브 바로가기](https://youtu.be/_XyzRij5AqU?si=iRiilYSstcW_nIyK)
+
+## 곰 세마리
+- Artist: 잘 모르겠습니다.
+- Genre: 동요
+- [유튜브 바로가기](https://www.youtube.com/watch?v=BW_IBKw229A)
+
+## 소녀시대
+- Artist: 소녀시대
+- Genre: K-POP
+
+## DASH
+- Artist: NMIXX
+- Genre: K-POP
