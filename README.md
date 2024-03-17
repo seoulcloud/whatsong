@@ -200,3 +200,7 @@
 - Genre: R&B
 - [유튜브 바로가기](https://youtu.be/LZlIqfMn4cc?si=4uXOy11P0oLUoLh7)
 
+## 자작곡
+- Artist: 김창운
+- Genre: BALAD
+- [유튜브 바로가기](https://www.youtube.com/watch?v=mqh9VQAIihU)
