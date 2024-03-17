@@ -160,12 +160,15 @@
 - Genre: K-POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=WyiIGEHQP8o)
 
+## 비밀
+- Artist: 부활
+- Genre: Rock
+- [유튜브 바로가기](https://youtu.be/_XyzRij5AqU?si=iRiilYSstcW_nIyK)
 
 ## 곰 세마리
 - Artist: 잘 모르겠습니다.
 - Genre: 동요
 - [유튜브 바로가기](https://www.youtube.com/watch?v=BW_IBKw229A)
-
 
 ## 소녀시대
 - Artist: 소녀시대
@@ -174,4 +177,3 @@
 ## DASH
 - Artist: NMIXX
 - Genre: K-POP
-
