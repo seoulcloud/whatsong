@@ -194,3 +194,9 @@
 - Artist: Benson Boone
 - Genre: POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=SWYJMtdKsSk)
+
+## 벌써 일년
+- Artist: 브라운 아이즈
+- Genre: R&B
+- [유튜브 바로가기](https://youtu.be/LZlIqfMn4cc?si=4uXOy11P0oLUoLh7)
+
