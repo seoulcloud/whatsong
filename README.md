@@ -160,6 +160,11 @@
 - Genre: K-POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=WyiIGEHQP8o)
 
+## Chill Kill
+- Artist: 레드벨벳
+- Genre: K-pop
+- [유튜브 바로가기](https://www.youtube.com/watch?v=xlyrt5eAtKI)
+
 ## 비밀
 - Artist: 부활
 - Genre: Rock
@@ -170,10 +175,8 @@
 - Genre: 동요
 - [유튜브 바로가기](https://www.youtube.com/watch?v=BW_IBKw229A)
 
-## 소녀시대
-- Artist: 소녀시대
-- Genre: K-POP
-
 ## DASH
 - Artist: NMIXX
 - Genre: K-POP
+- [유튜브 바로가기](https://www.youtube.com/watch?v=7UecFm_bSTU)
+
