@@ -214,3 +214,9 @@
 - Artist: Benson Boone
 - Genre: POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=prYbXj3zPfs)
+
+## 밤양갱
+- Artist: 비비
+- Genre: K-POP
+- [유튜브 바로가기](https://youtu.be/smdmEhkIRVc?si=Nb11TEnXuREhJCt8)
+
