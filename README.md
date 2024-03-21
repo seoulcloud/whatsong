@@ -204,3 +204,9 @@
 - Artist: 김창운
 - Genre: BALAD
 - [유튜브 바로가기](https://www.youtube.com/watch?v=mqh9VQAIihU)
+
+## Ghost Town
+- Artist: Benson Boone
+- Genre: POP
+- [유튜브 바로가기](https://www.youtube.com/watch?v=prYbXj3zPfs)
+
