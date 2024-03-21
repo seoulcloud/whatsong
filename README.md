@@ -160,6 +160,12 @@
 - Genre: K-POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=WyiIGEHQP8o)
 
+
+## So Beautiful
+- Artist: DPR IAN
+- Genre: R&B
+- [유튜브 바로가기](https://www.youtube.com/watch?v=7QQzDQceGgU)
+
 ## 스물다섯 스물하나
 - Artist: 자우림
 - Genre: K-POP
@@ -224,4 +230,3 @@
 - Artist: 비비
 - Genre: K-POP
 - [유튜브 바로가기](https://youtu.be/smdmEhkIRVc?si=Nb11TEnXuREhJCt8)
-
