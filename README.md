@@ -160,6 +160,10 @@
 - Genre: K-POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=WyiIGEHQP8o)
 
+## 아름다워
+- Artist: 창모
+- Genre: HIP-HOP
+- [유튜브 바로가기](https://www.youtube.com/watch?v=f79GgyWNmR8)
 
 ## So Beautiful
 - Artist: DPR IAN
