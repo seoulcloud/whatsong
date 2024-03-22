@@ -10,6 +10,11 @@
 - Genre: Rock
 - [유튜브 바로가기](https://www.youtube.com/watch?v=D8ZlnldEv8Q)
 
+## Time-Bomb
+- Artist: All Time Low
+- Genre: Rock
+- [유튜브 바로가기](https://www.youtube.com/watch?v=xkgNsE9Uhzc)
+
 ## 싸운날
 - Artist: 볼빨간사춘기
 - Genre: K-pop
