@@ -240,3 +240,7 @@
 - Genre : 발라드
 - [유튜브 바로가기](https://youtu.be/4PNbtD1LZYo?si=SR5WHJzgZpZ2NyGa)
 
+## 시가될 이야기
+- Artist : 신지훈
+- Genre : 발라드드
+
