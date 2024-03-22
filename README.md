@@ -1,10 +1,5 @@
 # 음악 추천
 
-## 인사
-- Artist: 범진
-- Genre: 발라드
-- [유튜브 바로가기](https://www.youtube.com/watch?v=bbqr6NkJ88A)
-
 ## 락앤롤데이
 - Artist: 달소년
 - Genre: Rock
@@ -252,5 +247,10 @@
 
 ## 시가될 이야기
 - Artist : 신지훈
-- Genre : 발라드드
+- Genre : 발라드
+- [유튜브 바로가기](https://www.youtube.com/watch?v=hMQmuXnZCCg)
 
+## 인사
+- Artist: 범진
+- Genre: 발라드
+- [유튜브 바로가기](https://www.youtube.com/watch?v=bbqr6NkJ88A)
