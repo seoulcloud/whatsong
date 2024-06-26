@@ -254,3 +254,8 @@
 - Artist: 범진
 - Genre: 발라드
 - [유튜브 바로가기](https://www.youtube.com/watch?v=bbqr6NkJ88A)
+
+## 친구라는건
+- Artist : 김범수 & 박효신
+- Genre : 발라드
+- [유튜브 바로가기] (https://www.youtube.com/watch?v=MmF7bHIaRGA)
