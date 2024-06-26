@@ -255,6 +255,11 @@
 - Genre: 발라드
 - [유튜브 바로가기](https://www.youtube.com/watch?v=bbqr6NkJ88A)
 
+## Blue Moon
+- Artist: 엔플라잉
+- Genre: 얼터너티브 록
+- [유튜브 바로가기](https://www.youtube.com/watch?v=U91VXYDhFgg)
+
 ## 홀씨
 - Artist: 아이유
 - Genre: K-POP
