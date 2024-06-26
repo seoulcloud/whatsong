@@ -1,5 +1,10 @@
 # 음악 추천
 
+## The Chicken
+- Artist: Valeriy Stepanov
+- Genre: Progressive Jazz
+- [유튜브 바로가기](https://www.youtube.com/watch?v=CGf62-MG014)
+
 ## 락앤롤데이
 - Artist: 달소년
 - Genre: Rock
