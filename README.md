@@ -254,3 +254,8 @@
 - Artist: 범진
 - Genre: 발라드
 - [유튜브 바로가기](https://www.youtube.com/watch?v=bbqr6NkJ88A)
+
+## Out of time
+- Artist: The weekend
+- Genre: Soul / R&B
+- [유튜브 바로가기](https://www.youtube.com/watch?v=kxgj5af8zg4)
