@@ -258,7 +258,7 @@
 ## 친구라는건
 - Artist : 김범수 & 박효신
 - Genre : 발라드
-- [유튜브 바로가기] (https://www.youtube.com/watch?v=MmF7bHIaRGA)
+- [유튜브 바로가기](https://www.youtube.com/watch?v=MmF7bHIaRGA)
 
 ## Lemon
 - Artist: Kenshi Yonezu
