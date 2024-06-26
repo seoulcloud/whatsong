@@ -255,6 +255,11 @@
 - Genre: 발라드
 - [유튜브 바로가기](https://www.youtube.com/watch?v=bbqr6NkJ88A)
 
+## Centuries
+- Artist : Fall Out Boy
+- Genre: Rock
+- [유투브 바로가기](https://www.youtube.com/watch?v=LBr7kECsjcQ)
+
 ## Blue Moon
 - Artist: 엔플라잉
 - Genre: 얼터너티브 록
