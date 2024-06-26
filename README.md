@@ -259,3 +259,48 @@
 - Artist : 이영지
 - Genre : 랩/힙합
 - [유튜브 바로가기](https://www.youtube.com/watch?v=11iZcYbq_is)
+
+## 잔잔한 피아노 재즈 모음
+- Artist: 잔잔한 피아노 재즈 모음
+- Genre: Jazz
+- [유튜브 바로가기](https://www.youtube.com/watch?v=sMivc3RIrFs&t)
+
+## (They Long To Be) Close To You
+- Artist: Carpenters
+- Genre: POP
+- [유튜브 바로가기](https://youtu.be/HYnV_pkO-Rw?si=z6NbG1LOensb5k0M)
+
+## Spring Love
+- Artist: 에릭남&웬디
+- Genre: K-Pop
+- [유투브 바로가기](https://youtube.com/watch?v=erErBFKPbMY&si=8iyNleohwtnCDllB)
+
+## Star
+- Artiest: 엔플라잉
+- Genre: 발라드
+- [유튜브 바로가기](https://youtu.be/9dokaoupejA?si=rp-EYUSNlY-eZ9d4)
+
+## Centuries
+- Artist : Fall Out Boy
+- Genre: Rock
+- [유투브 바로가기](https://www.youtube.com/watch?v=LBr7kECsjcQ)
+
+## Blue Moon
+- Artist: 엔플라잉
+- Genre: 얼터너티브 록
+- [유튜브 바로가기](https://www.youtube.com/watch?v=U91VXYDhFgg)
+
+## 홀씨
+- Artist: 아이유
+- Genre: K-POP
+- [유튜브 바로가기](https://www.youtube.com/watch?v=mFbILexYSQg)
+
+## 야생화
+- Artist: 박효신
+- Genre: 발라드
+- [유튜브 바로가기](https://www.youtube.com/watch?v=OxgiiyLp5pk)
+
+## Young and Beautiful
+- Artist: Lana Del Rey
+- Genre: POP
+-[유튜브 바로가기](https://www.youtube.com/watch?v=Te11UaHOHMQ)
