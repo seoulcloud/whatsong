@@ -254,3 +254,8 @@
 - Artist: 범진
 - Genre: 발라드
 - [유튜브 바로가기](https://www.youtube.com/watch?v=bbqr6NkJ88A)
+
+## 잔잔한 피아노 재즈 모음
+- Artist: 잔잔한 피아노 재즈 모음
+- Genre: Jazz
+- [유튜브 바로가기](https://www.youtube.com/watch?v=sMivc3RIrFs&t=4s)
