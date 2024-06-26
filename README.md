@@ -259,3 +259,28 @@
 - Artiest: 엔플라잉
 - Genre: 발라드
 - [유튜브 바로가기](https://youtu.be/9dokaoupejA?si=rp-EYUSNlY-eZ9d4)
+
+## Centuries
+- Artist : Fall Out Boy
+- Genre: Rock
+- [유투브 바로가기](https://www.youtube.com/watch?v=LBr7kECsjcQ)
+
+## Blue Moon
+- Artist: 엔플라잉
+- Genre: 얼터너티브 록
+- [유튜브 바로가기](https://www.youtube.com/watch?v=U91VXYDhFgg)
+
+## 홀씨
+- Artist: 아이유
+- Genre: K-POP
+- [유튜브 바로가기](https://www.youtube.com/watch?v=mFbILexYSQg)
+
+## 야생화
+- Artist: 박효신
+- Genre: 발라드
+- [유튜브 바로가기](https://www.youtube.com/watch?v=OxgiiyLp5pk)
+
+## Young and Beautiful
+- Artist: Lana Del Rey
+- Genre: POP
+-[유튜브 바로가기](https://www.youtube.com/watch?v=Te11UaHOHMQ)
