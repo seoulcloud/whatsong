@@ -255,6 +255,11 @@
 - Genre: 발라드
 - [유튜브 바로가기](https://www.youtube.com/watch?v=bbqr6NkJ88A)
 
+## (They Long To Be) Close To You
+- Artist: Carpenters
+- Genre: POP
+- [유튜브 바로가기](https://youtu.be/HYnV_pkO-Rw?si=z6NbG1LOensb5k0M)
+
 ## Spring Love
 - Artist: 에릭남&웬디
 - Genre: K-Pop
