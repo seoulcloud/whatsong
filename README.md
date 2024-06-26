@@ -1,5 +1,10 @@
 # 음악 추천
 
+## Young and Beautiful
+- Artist: Lana Del Rey
+- Genre: POP
+-[유튜브 바로가기](https://www.youtube.com/watch?v=Te11UaHOHMQ)
+
 ## 락앤롤데이
 - Artist: 달소년
 - Genre: Rock
