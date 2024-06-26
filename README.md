@@ -255,6 +255,12 @@
 - Genre: 발라드
 - [유튜브 바로가기](https://www.youtube.com/watch?v=bbqr6NkJ88A)
 
+
+## Lemon
+- Artist: Kenshi Yonezu
+- Genre: J-POP
+- [유튜브 바로가기](https://www.youtube.com/watch?v=p0ku3_rK6dE)
+
 ## Out of time
 - Artist: The weekend
 - Genre: Soul / R&B
