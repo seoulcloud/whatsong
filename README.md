@@ -255,6 +255,11 @@
 - Genre: 발라드
 - [유튜브 바로가기](https://www.youtube.com/watch?v=bbqr6NkJ88A)
 
+## Lost Stars
+- Artist: Adam Levine
+- Genre: POP
+- [유튜브 바로가기](https://youtu.be/cL4uhaQ58Rk?si=iNbZDLDBDUoVPFTu)
+
 ## 친구라는건
 - Artist : 김범수 & 박효신
 - Genre : 발라드
