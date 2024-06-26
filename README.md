@@ -255,6 +255,11 @@
 - Genre: 발라드
 - [유튜브 바로가기](https://www.youtube.com/watch?v=bbqr6NkJ88A)
 
+## BODY
+- Artist : 하이라이트
+- Genre : K-POP
+- [유튜브 바로가기](https://www.youtube.com/watch?v=olPe8g7A32E)
+
 ## Small girl
 - Artist : 이영지
 - Genre : 랩/힙합
