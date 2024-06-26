@@ -1,10 +1,5 @@
 # 음악 추천
 
-## The Chicken
-- Artist: Valeriy Stepanov
-- Genre: Progressive Jazz
-- [유튜브 바로가기](https://www.youtube.com/watch?v=CGf62-MG014)
-
 ## 락앤롤데이
 - Artist: 달소년
 - Genre: Rock
@@ -260,6 +255,10 @@
 - Genre: 발라드
 - [유튜브 바로가기](https://www.youtube.com/watch?v=bbqr6NkJ88A)
 
+## 친구라는건
+- Artist : 김범수 & 박효신
+- Genre : 발라드
+- [유튜브 바로가기](https://www.youtube.com/watch?v=MmF7bHIaRGA)
 
 ## Lemon
 - Artist: Kenshi Yonezu
@@ -326,3 +325,7 @@
 - Genre: POP
 -[유튜브 바로가기](https://www.youtube.com/watch?v=Te11UaHOHMQ)
 
+## The Chicken
+- Artist: Valeriy Stepanov
+- Genre: Progressive Jazz
+- [유튜브 바로가기](https://www.youtube.com/watch?v=CGf62-MG014)
