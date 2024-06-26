@@ -254,3 +254,8 @@
 - Artist: 범진
 - Genre: 발라드
 - [유튜브 바로가기](https://www.youtube.com/watch?v=bbqr6NkJ88A)
+
+## 홀씨
+- Artist: 아이유
+- Genre: K-POP
+- [유튜브 바로가기](https://www.youtube.com/watch?v=mFbILexYSQg)
