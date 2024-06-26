@@ -1,10 +1,5 @@
 # 음악 추천
 
-## Young and Beautiful
-- Artist: Lana Del Rey
-- Genre: POP
--[유튜브 바로가기](https://www.youtube.com/watch?v=Te11UaHOHMQ)
-
 ## 락앤롤데이
 - Artist: 달소년
 - Genre: Rock
@@ -260,6 +255,11 @@
 - Genre: 발라드
 - [유튜브 바로가기](https://www.youtube.com/watch?v=bbqr6NkJ88A)
 
+## Star
+- Artiest: 엔플라잉
+- Genre: 발라드
+- [유튜브 바로가기](https://youtu.be/9dokaoupejA?si=rp-EYUSNlY-eZ9d4)
+
 ## Centuries
 - Artist : Fall Out Boy
 - Genre: Rock
@@ -279,3 +279,8 @@
 - Artist: 박효신
 - Genre: 발라드
 - [유튜브 바로가기](https://www.youtube.com/watch?v=OxgiiyLp5pk)
+
+## Young and Beautiful
+- Artist: Lana Del Rey
+- Genre: POP
+-[유튜브 바로가기](https://www.youtube.com/watch?v=Te11UaHOHMQ)
