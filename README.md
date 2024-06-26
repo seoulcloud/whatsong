@@ -254,3 +254,8 @@
 - Artist: 범진
 - Genre: 발라드
 - [유튜브 바로가기](https://www.youtube.com/watch?v=bbqr6NkJ88A)
+
+## Small girl
+- Artist : 이영지
+- Genre : 랩/힙합
+- [유튜브 바로가기](https://www.youtube.com/watch?v=11iZcYbq_is)
