@@ -254,3 +254,8 @@
 - Artist: 범진
 - Genre: 발라드
 - [유튜브 바로가기](https://www.youtube.com/watch?v=bbqr6NkJ88A)
+
+## Spring Love
+- Artist: 에릭남&웬디
+- Genre: K-Pop
+- [유투브 바로가기](https://music.youtube.com/watch?v=erErBFKPbMY&si=8iyNleohwtnCDllB)
