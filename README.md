@@ -346,3 +346,8 @@
 - Artist: Valeriy Stepanov
 - Genre: Progressive Jazz
 - [유튜브 바로가기](https://www.youtube.com/watch?v=CGf62-MG014)
+
+## APT.
+- Artist: ROSÉ & Bruno Mars
+- genre: POP
+- [유튜브 바로가기](https://www.youtube.com/watch?v=ekr2nIex040)
