@@ -738,6 +738,11 @@
 - Genre: Progressive Jazz
 - [유튜브 바로가기](https://www.youtube.com/watch?v=CGf62-MG014)
 
+## 덤디덤디
+- Artist: 아이들
+- Genre: K-POP
+- [유튜브 바로가기](https://youtu.be/HPQ5mqovXHo?si=peTMm5Fpv1bulBGU)
+
 ## 몇 번의 여름
 - Artist: TOIL, Gist
 - Genre: indie pop
