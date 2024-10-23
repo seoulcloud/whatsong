@@ -346,3 +346,8 @@
 - Artist: Valeriy Stepanov
 - Genre: Progressive Jazz
 - [유튜브 바로가기](https://www.youtube.com/watch?v=CGf62-MG014)
+
+## 닭발 그 위대한 음식에 대하여
+- Artist: 독일브렌드티셔츠
+- Genre: Rock
+- [유튜브 바로가기](https://www.youtube.com/watch?v=ypGwL4aSVyw)
