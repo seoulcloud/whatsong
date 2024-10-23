@@ -738,6 +738,12 @@
 - Genre: Progressive Jazz
 - [유튜브 바로가기](https://www.youtube.com/watch?v=CGf62-MG014)
 
+## We are
+
+- Artist: One ok Rock
+- Genre: Rock
+- [유튜브 바로가기](https://www.youtube.com/watch?v=uyaKoj7wABY)
+
 ## Standing next to oyu
 - Artist: Jungkook
 - Genre: Dance
