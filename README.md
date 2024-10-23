@@ -738,6 +738,11 @@
 - Genre: Progressive Jazz
 - [유튜브 바로가기](https://www.youtube.com/watch?v=CGf62-MG014)
 
+## Odoriko
+- Artist: Vaundy
+- Genre: J-POP
+- [유튜브 바로가기](https://www.youtube.com/watch?v=zqwk1ionxcA)
+
 ## 씨밤바(See bam bar)
 
 - Artist: 달소년
