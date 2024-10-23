@@ -738,6 +738,11 @@
 - Genre: Progressive Jazz
 - [유튜브 바로가기](https://www.youtube.com/watch?v=CGf62-MG014)
 
+## 첫사랑
+- Artist: 백아
+- Genre: Indie, Folk/Blues
+- [유튜브 바로가기](https://youtu.be/vVrFyMDMrlM?si=zpKtehIOwG71dEPp)
+
 ## 흰수염고래
 - Artist: 윤도현
 - Genere: 발라드
