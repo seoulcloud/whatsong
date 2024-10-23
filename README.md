@@ -422,3 +422,8 @@
 - Genre : 랩
 - [유튜브 바로가기](https://www.youtube.com/watch?v=QW_TSknSbWM)
 
+## 장마
+- Artist: 정인
+- Genre: 발라드
+- [유튜브 바로가기](https://youtu.be/Zm1JcsqbXzs?si=V7folBuKc3N9xtYO)
+
