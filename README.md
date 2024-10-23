@@ -20,6 +20,11 @@
 - Genre: band
 - [유튜브 바로가기](https://www.youtube.com/watch?v=RowlrvmyFEk)
 
+## boy for the weekend
+- Artist: marc indigo
+- Genre: indie
+- [유튜브 바로가기](https://www.youtube.com/watch?v=DlW_j6ZT7Nw)
+
 ## 락앤롤데이
 
 - Artist: 달소년
