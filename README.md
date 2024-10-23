@@ -738,6 +738,12 @@
 - Genre: Progressive Jazz
 - [유튜브 바로가기](https://www.youtube.com/watch?v=CGf62-MG014)
 
+## 빠지기는 빠지더라
+
+- Artist: 장기하와 얼굴들
+- Genre: 장기하와 얼굴들
+- [유튜브 바로가기](https://youtu.be/UcpcdA4W5zc?si=VL2MayFzCpwgh1s6)
+
 ## 꽃비
 
 - Artist: 이츠
