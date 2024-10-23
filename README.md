@@ -346,3 +346,7 @@
 - Artist: Valeriy Stepanov
 - Genre: Progressive Jazz
 - [유튜브 바로가기](https://www.youtube.com/watch?v=CGf62-MG014)
+## Own my hero
+- Artist: Andy Grammer
+- Genre: POP
+- [유튜브 바로가기](https://www.youtube.com/watch?v=16kb228Kb8I&rco=1)
