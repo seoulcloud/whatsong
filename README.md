@@ -411,8 +411,8 @@
 - Genre: Progressive Jazz
 - [유튜브 바로가기](https://www.youtube.com/watch?v=CGf62-MG014)
 
-## Lucky
+## 씨밤바(See bam bar)
 
-- Artist: Jason Mraz
-- Genre: Balad
-- [유튜브 바로가기](https://www.youtube.com/watch?v=acvIVA9-FMQ)
+- Artist: 달소년
+- Genre: Rock
+- [유튜브 바로가기](https://www.youtube.com/watch?v=EHsdhw8IBEA)
