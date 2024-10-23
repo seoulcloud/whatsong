@@ -738,6 +738,11 @@
 - Genre: Progressive Jazz
 - [유튜브 바로가기](https://www.youtube.com/watch?v=CGf62-MG014)
 
+## 흰수염고래
+- Artist: 윤도현
+- Genere: 발라드
+- [유튜브 바로가기](https://www.youtube.com/watch?v=iD54IrEyiK8)
+
 ## Own my hero
 - Artist: Andy Grammer
 - Genre: POP
