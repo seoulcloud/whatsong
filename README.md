@@ -346,3 +346,8 @@
 - Artist: Valeriy Stepanov
 - Genre: Progressive Jazz
 - [유튜브 바로가기](https://www.youtube.com/watch?v=CGf62-MG014)
+
+## Standing next to oyu
+- Artist: Jungkook
+- Genre: Dance
+- [유튜브 바로가기](https://youtu.be/UNo0TG9LwwI?si=vzBn2F3w2jR_gIUy)
