@@ -346,3 +346,8 @@
 - Artist: Valeriy Stepanov
 - Genre: Progressive Jazz
 - [유튜브 바로가기](https://www.youtube.com/watch?v=CGf62-MG014)
+
+## 하루 하루
+- Artist: 빅뱅
+- Genre: k-pop
+- [유튜브 바로가기](https://youtu.be/8OAQ6RuYFGE?si=4frxLPcbpO4-UdGF)
