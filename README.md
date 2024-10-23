@@ -416,3 +416,9 @@
 - Artist: 달소년
 - Genre: Rock
 - [유튜브 바로가기](https://www.youtube.com/watch?v=EHsdhw8IBEA)
+
+## AK47
+- Artist : K$AP Rama, Poison Mushroom
+- Genre : 랩
+- [유튜브 바로가기](https://www.youtube.com/watch?v=QW_TSknSbWM)
+
