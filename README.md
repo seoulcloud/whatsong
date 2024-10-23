@@ -346,3 +346,8 @@
 - Artist: Valeriy Stepanov
 - Genre: Progressive Jazz
 - [유튜브 바로가기](https://www.youtube.com/watch?v=CGf62-MG014)
+
+## Sweet Child O' Mine
+- Artist: Guns N' Roses
+- Genre: Hard Rock
+- [유튜브 바로가기](https://www.youtube.com/watch?v=1w7OgIMMRc4)
