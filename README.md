@@ -346,3 +346,8 @@
 - Artist: Valeriy Stepanov
 - Genre: Progressive Jazz
 - [유튜브 바로가기](https://www.youtube.com/watch?v=CGf62-MG014)
+
+## Catalina
+- Artist: Taiwan MC, Paloma Pradal
+- Genre: Dancehall
+- [유튜브 바로가기](https://youtu.be/E7i-prhDw9A?si=0oB_7U-hf8y3RlQv)
