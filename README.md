@@ -854,6 +854,11 @@
 - Genre: Rock
 - [유튜브 바로가기](https://www.youtube.com/watch?v=EHsdhw8IBEA)
 
+## Noid
+- Artist: Tyler, The Creator
+- Genre: Hip-Hop
+- [유튜브_바로가기](https://www.youtube.com/watch?v=Qer3lwd5hyA)
+
 ## AK47
 
 - Artist : K$AP Rama, Poison Mushroom
