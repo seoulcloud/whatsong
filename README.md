@@ -738,6 +738,11 @@
 - Genre: Progressive Jazz
 - [유튜브 바로가기](https://www.youtube.com/watch?v=CGf62-MG014)
 
+## yours
+- Artist: 데이먼스 이어
+- Genre: PIndie Rock
+- [유튜브 바로가기](https://www.youtube.com/watch?v=VHj6IYA-Dxs)
+
 ## 회전 목마
 
 - Artist: sokodomo
