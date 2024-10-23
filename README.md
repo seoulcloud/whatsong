@@ -346,3 +346,8 @@
 - Artist: Valeriy Stepanov
 - Genre: Progressive Jazz
 - [유튜브 바로가기](https://www.youtube.com/watch?v=CGf62-MG014)
+
+## Noid
+- Artist: Tyler, The Creator
+- Genre: Hip-Hop
+- [유튜브_바로가기](https://www.youtube.com/watch?v=Qer3lwd5hyA)
