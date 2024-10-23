@@ -346,3 +346,8 @@
 - Artist: Valeriy Stepanov
 - Genre: Progressive Jazz
 - [유튜브 바로가기](https://www.youtube.com/watch?v=CGf62-MG014)
+
+## 첫사랑
+- Artist: 백아
+- Genre: Indie, Folk/Blues
+- [유튜브 바로가기](https://youtu.be/vVrFyMDMrlM?si=zpKtehIOwG71dEPp)
