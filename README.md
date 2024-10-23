@@ -738,6 +738,12 @@
 - Genre: Progressive Jazz
 - [유튜브 바로가기](https://www.youtube.com/watch?v=CGf62-MG014)
 
+## 꽃비
+
+- Artist: 이츠
+- Genre: 가요
+- [유튜브 바로가기](https://www.youtube.com/watch?v=xbfvVj30S5o&ab_channel=GENIEMUSIC)
+
 ## 정류장
 - Artist : 버스커버스커
   -Genre : K-pop
