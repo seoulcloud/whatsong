@@ -416,3 +416,9 @@
 - Artist: 달소년
 - Genre: Rock
 - [유튜브 바로가기](https://www.youtube.com/watch?v=EHsdhw8IBEA)
+
+## Lucky
+
+- Artist: Jason Mraz
+- Genre: Pop
+- [유튜브 바로가기](https://www.youtube.com/watch?v=acvIVA9-FMQ)
