@@ -346,3 +346,8 @@
 - Artist: Valeriy Stepanov
 - Genre: Progressive Jazz
 - [유튜브 바로가기](https://www.youtube.com/watch?v=CGf62-MG014)
+
+## 60's Cardin
+- Artist: Glen Check
+- Genre: Electronic Band
+- [유튜브 바로가기](https://www.youtube.com/watch?v=0fN71Wtgoa8)
