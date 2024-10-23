@@ -15,6 +15,11 @@
 - Genre: K-pop
 - [유튜브 바로가기](https://www.youtube.com/watch?v=JCOU29jCe-g)
 
+## Welcome to the Show
+- Artist: 데이식스
+- Genre: band
+- [유튜브 바로가기](https://www.youtube.com/watch?v=RowlrvmyFEk)
+
 ## 락앤롤데이
 
 - Artist: 달소년
