@@ -20,7 +20,13 @@
 
 - Artist: Kendrick Lamar
 - Genre: K-pop
-- [유튜브 바로가기](https://www.youtube.com/watch?v=JCOU29jCe-g)
+- [유튜브 바로가기](https://youtu.be/HfWLgELllZs?si=LcLL1XTVOFpOG7gL)
+
+## 유로파 Europa
+
+- Artist: 소녀시대
+- Genre: K-pop
+- [유튜브 바로가기](https://www.youtube.com/watch?v=XTPjAu0kgDE)
 
 ## 한잔두잔세잔
 
