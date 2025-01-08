@@ -22,6 +22,24 @@
 - Genre: K-pop
 - [유튜브 바로가기](https://www.youtube.com/watch?v=qAlaoCJMDJg)
 
+## 유로파 Europa
+
+- Artist: 소녀시대
+- Genre: K-pop
+- [유튜브 바로가기](https://www.youtube.com/watch?v=XTPjAu0kgDE)
+
+## 소나기 속에
+
+- Artist: 체감온도 17도
+- Genre: K-pop
+- [유튜브 바로가기](https://youtu.be/8qBkB5gL0CU?si=x8wWNC-CE7iUnwVt)
+
+## 하늘을 달리다다
+
+- Artist: 이적
+- Genre: K-pop
+- [유튜브 바로가기](https://youtu.be/cNFs-FRrdJg?si=Bao9r3lyoxekV8_X)
+
 ## 한잔두잔세잔
 
 - Artist: 김강패
