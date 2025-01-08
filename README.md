@@ -10,12 +10,6 @@
 4. 브랜치 만들기: `issueID`-노래 이름 (e.x. `30-seebambar`)
 5. PR 보내기
 
-## 하늘을 달리다다
-
-- Artist: 이적
-- Genre: K-pop
-- [유튜브 바로가기](https://youtu.be/cNFs-FRrdJg?si=Bao9r3lyoxekV8_X)
-
 ## 봉선화
 
 - Artist: 후피(Whoopy)
@@ -27,6 +21,18 @@
 - Artist: 소녀시대
 - Genre: K-pop
 - [유튜브 바로가기](https://www.youtube.com/watch?v=XTPjAu0kgDE)
+
+## 소나기 속에
+
+- Artist: 체감온도 17도
+- Genre: K-pop
+- [유튜브 바로가기](https://youtu.be/8qBkB5gL0CU?si=x8wWNC-CE7iUnwVt)
+
+## 하늘을 달리다다
+
+- Artist: 이적
+- Genre: K-pop
+- [유튜브 바로가기](https://youtu.be/cNFs-FRrdJg?si=Bao9r3lyoxekV8_X)
 
 ## 한잔두잔세잔
 
