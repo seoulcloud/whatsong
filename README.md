@@ -16,6 +16,12 @@
 - Genre: K-pop
 - [유튜브 바로가기](https://www.youtube.com/watch?v=GR0JjjEZOIQ)
 
+## luther
+
+- Artist: Kendrick Lamar
+- Genre: K-pop
+- [유튜브 바로가기](https://www.youtube.com/watch?v=JCOU29jCe-g)
+
 ## 한잔두잔세잔
 
 - Artist: 김강패
