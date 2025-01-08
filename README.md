@@ -22,6 +22,12 @@
 - Genre: Rock
 - [유튜브 바로가기](https://www.youtube.com/watch?v=JkK8g6FMEXE)
 
+## 유로파 Europa
+
+- Artist: 소녀시대
+- Genre: K-pop
+- [유튜브 바로가기](https://www.youtube.com/watch?v=XTPjAu0kgDE)
+
 ## 한잔두잔세잔
 
 - Artist: 김강패
