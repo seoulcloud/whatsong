@@ -913,3 +913,8 @@
 - Artist : Kenshi Yonezu
 - Genre : J-POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=9aJVr5tTTWk)
+
+## 안아줘
+- Artist: Lil Boo Thang
+- Genre: POP
+- [유튜브 바로가기](https://www.youtube.com/watch?v=W4SXOQ7xFoo)
