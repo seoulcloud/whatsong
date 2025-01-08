@@ -10,12 +10,6 @@
 4. 브랜치 만들기: `issueID`-노래 이름 (e.x. `30-seebambar`)
 5. PR 보내기
 
-## 태양물고기
-
-- Artist: 윤하(YOUNHA)
-- Genre: K-pop
-- [유튜브 바로가기](https://www.youtube.com/watch?v=ehX7MAhc5iA)
-
 ## 봉선화
 
 - Artist: 후피(Whoopy)
@@ -27,6 +21,18 @@
 - Artist: 후피(Whoopy)
 - Genre: K-pop
 - [유튜브 바로가기](https://www.youtube.com/watch?v=qAlaoCJMDJg)
+
+## I don't want to miss a thing
+
+- Artist: AeroSmith
+- Genre: Rock
+- [유튜브 바로가기](https://www.youtube.com/watch?v=JkK8g6FMEXE)
+
+## 태양물고기
+
+- Artist: 윤하(YOUNHA)
+- Genre: K-pop
+- [유튜브 바로가기](https://www.youtube.com/watch?v=ehX7MAhc5iA)
 
 ## luther
 
