@@ -16,6 +16,12 @@
 - Genre: K-pop
 - [유튜브 바로가기](https://www.youtube.com/watch?v=GR0JjjEZOIQ)
 
+## 여름 초록 물방울
+
+- Artist: 후피(Whoopy)
+- Genre: K-pop
+- [유튜브 바로가기](https://www.youtube.com/watch?v=qAlaoCJMDJg)
+
 ## 한잔두잔세잔
 
 - Artist: 김강패
