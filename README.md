@@ -962,6 +962,11 @@
 - Genre : J-POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=9aJVr5tTTWk)
 
+## 별을 담은 시
+- Artist : 마크툽, 이라온
+- Genre : 발라드
+- [유튜브 바로가기기](https://www.youtube.com/watch?v=QlAFlgmMmAU)
+
 ## 안녕 내 전부였던 너 
 
 - Artist : 펀치
@@ -984,3 +989,4 @@
 - Artist : Mrs. Green Apple
 - Genre : J-POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=QjrkrVmC-8M)
+
