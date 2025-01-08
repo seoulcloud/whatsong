@@ -28,6 +28,12 @@
 - Genre: band
 - [유튜브 바로가기](https://www.youtube.com/watch?v=RowlrvmyFEk)
 
+## 青と夏
+
+- Artist : Mrs. GREEN APPLE
+- Genre : J-POP
+- [유튜브 바로가기](https://youtu.be/m34DPnRUfMU?si=qxusIkx6IcgOL4jF)
+
 ## boy for the weekend
 
 - Artist: marc indigo
