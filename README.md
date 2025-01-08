@@ -913,3 +913,9 @@
 - Artist : Kenshi Yonezu
 - Genre : J-POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=9aJVr5tTTWk)
+
+## 데레(Derre)
+
+- Artist : 비비(Bibi)
+- Genre : K-POP
+- [유튜브 바로가기](https://youtu.be/m6N6jOt7heY?si=ii3ipkoZcngicFAj)
