@@ -10,12 +10,6 @@
 4. 브랜치 만들기: `issueID`-노래 이름 (e.x. `30-seebambar`)
 5. PR 보내기
 
-## pick up the phone
-
-- Artist: Henry Moodie
-- Genre: pop
-- [유튜브 바로가기](https://www.youtube.com/watch?v=aZDlaZCpKYw)
-
 ## 봉선화
 
 - Artist: 후피(Whoopy)
@@ -27,6 +21,12 @@
 - Artist: 후피(Whoopy)
 - Genre: K-pop
 - [유튜브 바로가기](https://www.youtube.com/watch?v=qAlaoCJMDJg)
+
+## pick up the phone
+
+- Artist: Henry Moodie
+- Genre: pop
+- [유튜브 바로가기](https://www.youtube.com/watch?v=aZDlaZCpKYw)
 
 ## 유로파 Europa
 
@@ -950,8 +950,15 @@
 - Genre : J-POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=9aJVr5tTTWk)
 
+## 데레(Derre)
+
+- Artist : 비비(Bibi)
+- Genre : K-POP
+- [유튜브 바로가기](https://youtu.be/m6N6jOt7heY?si=ii3ipkoZcngicFAj)
+
 ## Lilac
 
 - Artist : Mrs. Green Apple
 - Genre : J-POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=QjrkrVmC-8M)
+
