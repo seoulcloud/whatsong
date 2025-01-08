@@ -16,6 +16,36 @@
 - Genre: K-pop
 - [유튜브 바로가기](https://www.youtube.com/watch?v=GR0JjjEZOIQ)
 
+## 여름 초록 물방울
+
+- Artist: 후피(Whoopy)
+- Genre: K-pop
+- [유튜브 바로가기](https://www.youtube.com/watch?v=qAlaoCJMDJg)
+
+## pick up the phone
+
+- Artist: Henry Moodie
+- Genre: pop
+- [유튜브 바로가기](https://www.youtube.com/watch?v=aZDlaZCpKYw)
+
+## 유로파 Europa
+
+- Artist: 소녀시대
+- Genre: K-pop
+- [유튜브 바로가기](https://www.youtube.com/watch?v=XTPjAu0kgDE)
+
+## 소나기 속에
+
+- Artist: 체감온도 17도
+- Genre: K-pop
+- [유튜브 바로가기](https://youtu.be/8qBkB5gL0CU?si=x8wWNC-CE7iUnwVt)
+
+## 하늘을 달리다다
+
+- Artist: 이적
+- Genre: K-pop
+- [유튜브 바로가기](https://youtu.be/cNFs-FRrdJg?si=Bao9r3lyoxekV8_X)
+
 ## 한잔두잔세잔
 
 - Artist: 김강패
@@ -27,6 +57,12 @@
 - Artist: 데이식스
 - Genre: band
 - [유튜브 바로가기](https://www.youtube.com/watch?v=RowlrvmyFEk)
+
+## 青と夏
+
+- Artist : Mrs. GREEN APPLE
+- Genre : J-POP
+- [유튜브 바로가기](https://youtu.be/m34DPnRUfMU?si=qxusIkx6IcgOL4jF)
 
 ## boy for the weekend
 
@@ -914,7 +950,21 @@
 - Genre : J-POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=9aJVr5tTTWk)
 
+
 ## 안아줘
 - Artist: Lil Boo Thang
 - Genre: POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=W4SXOQ7xFoo)
+
+## 데레(Derre)
+
+- Artist : 비비(Bibi)
+- Genre : K-POP
+- [유튜브 바로가기](https://youtu.be/m6N6jOt7heY?si=ii3ipkoZcngicFAj)
+
+## Lilac
+
+- Artist : Mrs. Green Apple
+- Genre : J-POP
+- [유튜브 바로가기](https://www.youtube.com/watch?v=QjrkrVmC-8M)
+
