@@ -22,6 +22,12 @@
 - Genre: K-pop
 - [유튜브 바로가기](https://www.youtube.com/watch?v=qAlaoCJMDJg)
 
+## luther
+
+- Artist: Kendrick Lamar
+- Genre: K-pop
+- [유튜브 바로가기](https://youtu.be/HfWLgELllZs?si=LcLL1XTVOFpOG7gL)
+
 ## pick up the phone
 
 - Artist: Henry Moodie
