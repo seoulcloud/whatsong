@@ -913,3 +913,9 @@
 - Artist : Kenshi Yonezu
 - Genre : J-POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=9aJVr5tTTWk)
+
+## Lilac
+
+- Artist : Mrs. Green Apple
+- Genre : J-POP
+- [유튜브 바로가기](https://www.youtube.com/watch?v=QjrkrVmC-8M)
