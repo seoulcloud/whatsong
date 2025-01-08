@@ -16,6 +16,12 @@
 - Genre: K-pop
 - [유튜브 바로가기](https://www.youtube.com/watch?v=GR0JjjEZOIQ)
 
+## I don't want to miss a thing
+
+- Artist: AeroSmith
+- Genre: Rock
+- [유튜브 바로가기](https://www.youtube.com/watch?v=JkK8g6FMEXE)
+
 ## 한잔두잔세잔
 
 - Artist: 김강패
