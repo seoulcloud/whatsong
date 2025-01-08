@@ -16,6 +16,12 @@
 - Genre: K-pop
 - [유튜브 바로가기](https://www.youtube.com/watch?v=GR0JjjEZOIQ)
 
+## spicy
+
+- Artist: 에스파
+- Genre: K-pop
+- [유튜브 바로가기](https://www.youtube.com/watch?v=Os_heh8vPfs)
+
 ## 한잔두잔세잔
 
 - Artist: 김강패
