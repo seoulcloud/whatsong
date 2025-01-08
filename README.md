@@ -28,6 +28,12 @@
 - Genre: K-pop
 - [유튜브 바로가기](https://www.youtube.com/watch?v=qAlaoCJMDJg)
 
+## spicy
+
+- Artist: 에스파
+- Genre: K-pop
+- [유튜브 바로가기](https://www.youtube.com/watch?v=Os_heh8vPfs)
+
 ## I don't want to miss a thing
 
 - Artist: AeroSmith
