@@ -2,7 +2,7 @@
 name: 노래 추가 PR
 about: 좋아하는 노래를 추가하는 Pull Request를 생성합니다.
 title: "[노래 추가] 노래 제목 - 아티스트"
-labels: "song"
+labels: "\U0001F3A4 노래 추천"
 assignees: ""
 ---
 
