@@ -1056,6 +1056,12 @@
 - Genre : J-POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=QjrkrVmC-8M)
 
+## HAPPY
+
+- Artist : DAY6
+- Genre : POP PUNK
+- [유튜브 바로가기](https://youtu.be/sWXGbkM0tBI?si=gQRh9Sm-u22YEA4R)
+
 ## 감기송
 
 - Artist : 엔토이
