@@ -435,6 +435,9 @@
 - Artist : 윤건
 - Genre : 발라드
 - # [유투브 바로가기](https://www.youtube.com/watch?v=3a7P4jZ1tKI)
+
+## Ghost Town
+
 - Artist: Benson Boone
 - Genre: POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=prYbXj3zPfs)
@@ -1056,6 +1059,12 @@
 - Genre : J-POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=QjrkrVmC-8M)
 
+## day 1
+
+- Artist : HONNE
+- Genre : POP
+- [유튜브 바로가기](https://www.youtube.com/watch?v=QjrkrVmC-8M)
+
 ## HAPPY
 
 - Artist : DAY6
@@ -1073,3 +1082,4 @@
 - Artist : 이영현
 - Genre : 발라드
 - [유튜브 바로가기](https://youtu.be/ARJ5bXkof30?si=6Dnb4TKDRzGFu-Zz)
+
