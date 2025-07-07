@@ -1056,7 +1056,13 @@
 - Genre : J-POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=QjrkrVmC-8M)
 
-## Lilac
+## 감기송
+
+- Artist : 엔토이
+- Genre : 동요
+- [유튜브 바로가기](https://youtu.be/9xQD-NeRS88?si=7D1xlHyNdw66fN7t)
+
+## 체념
 
 - Artist : 이영현
 - Genre : 발라드
