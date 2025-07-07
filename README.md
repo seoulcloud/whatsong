@@ -1059,6 +1059,11 @@
 - Genre : J-POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=QjrkrVmC-8M)
 
+## CUFF IT
+- Artist : 비욘세
+- Genre : pop
+- [유튜브 바로가기](https://www.youtube.com/watch?v=yrtWLyp5gLI)
+
 ## fellslikeimfallinginlove
 
 - Artist : coldplay
