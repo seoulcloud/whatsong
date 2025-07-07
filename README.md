@@ -435,6 +435,9 @@
 - Artist : 윤건
 - Genre : 발라드
 - # [유투브 바로가기](https://www.youtube.com/watch?v=3a7P4jZ1tKI)
+
+## Ghost Town
+
 - Artist: Benson Boone
 - Genre: POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=prYbXj3zPfs)
@@ -1061,6 +1064,30 @@
 - Artist : coldplay
 - Genre : pop rock
 - [유튜브 바로가기](https://www.youtube.com/watch?v=V3IVdLo-2NM)
+
+## Do it for love
+
+- Artist : THAMA
+- Genre : R&B
+- [유튜브 바로가기](https://www.youtube.com/watch?v=sZlzVxamdp0)
+
+## Helena
+
+- Artist : My Chemical Romance
+- Genre : Rock
+- [유튜브 바로가기](https://youtu.be/7SM5laxokpg?feature=shared)
+
+## day 1
+
+- Artist : HONNE
+- Genre : POP
+- [유튜브 바로가기](https://www.youtube.com/watch?v=QjrkrVmC-8M)
+
+## HAPPY
+
+- Artist : DAY6
+- Genre : POP PUNK
+- [유튜브 바로가기](https://youtu.be/sWXGbkM0tBI?si=gQRh9Sm-u22YEA4R)
 
 ## 감기송
 
