@@ -1055,3 +1055,9 @@
 - Artist : Mrs. Green Apple
 - Genre : J-POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=QjrkrVmC-8M)
+
+## 감기송
+
+- Artist : 엔토이
+- Genre : 동요
+- [유튜브 바로가기](https://youtu.be/9xQD-NeRS88?si=7D1xlHyNdw66fN7t)
