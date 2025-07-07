@@ -1059,6 +1059,12 @@
 - Genre : J-POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=QjrkrVmC-8M)
 
+## fellslikeimfallinginlove
+
+- Artist : coldplay
+- Genre : pop rock
+- [유튜브 바로가기](https://www.youtube.com/watch?v=V3IVdLo-2NM)
+
 ## Do it for love
 
 - Artist : THAMA
@@ -1094,4 +1100,3 @@
 - Artist : 이영현
 - Genre : 발라드
 - [유튜브 바로가기](https://youtu.be/ARJ5bXkof30?si=6Dnb4TKDRzGFu-Zz)
-
