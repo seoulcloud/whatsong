@@ -1056,11 +1056,20 @@
 - Genre : J-POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=QjrkrVmC-8M)
 
-
 ## HAPPY
-
-## Lilac
 
 - Artist : DAY6
 - Genre : POP PUNK
 - [유튜브 바로가기](https://youtu.be/sWXGbkM0tBI?si=gQRh9Sm-u22YEA4R)
+
+## 감기송
+
+- Artist : 엔토이
+- Genre : 동요
+- [유튜브 바로가기](https://youtu.be/9xQD-NeRS88?si=7D1xlHyNdw66fN7t)
+
+## 체념
+
+- Artist : 이영현
+- Genre : 발라드
+- [유튜브 바로가기](https://youtu.be/ARJ5bXkof30?si=6Dnb4TKDRzGFu-Zz)
