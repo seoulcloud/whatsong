@@ -1055,9 +1055,3 @@
 - Artist : Mrs. Green Apple
 - Genre : J-POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=QjrkrVmC-8M)
-
-## ThankU
-
-- Artist : 유노윤호
-- Genre : kpop
-- [유튜브바로가기](https://youtu.be/AMUJqXbC2D0?si=onjI-egu0-AelxdB)
