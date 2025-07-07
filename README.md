@@ -1055,3 +1055,10 @@
 - Artist : Mrs. Green Apple
 - Genre : J-POP
 - [유튜브 바로가기](https://www.youtube.com/watch?v=QjrkrVmC-8M)
+
+## 아낌 없이 꿈을 꾸는 작은 별
+
+- Artist : 육예서
+- Genre : 동요
+- [유튜브 바로가기](https://www.youtube.com/watch?v=vC_LA-WaWGk)
+
